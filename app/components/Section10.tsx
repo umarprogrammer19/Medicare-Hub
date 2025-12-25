@@ -29,6 +29,7 @@ export default function ContactInfo() {
             group-hover:bg-white
             group-hover:border-[#243567]
             group-hover:text-[#243567]
+            cursor-pointer
           ">
             <FiMapPin />
           </div>
@@ -52,6 +53,7 @@ export default function ContactInfo() {
             group-hover:bg-white
             group-hover:border-[#243567]
             group-hover:text-[#243567]
+            cursor-pointer
           ">
             <FiPhone />
           </div>
@@ -75,6 +77,7 @@ export default function ContactInfo() {
             group-hover:bg-white
             group-hover:border-[#243567]
             group-hover:text-[#243567]
+            cursor-pointer
           ">
             <FiMail />
           </div>
@@ -98,6 +101,7 @@ export default function ContactInfo() {
             group-hover:bg-white
             group-hover:border-[#243567]
             group-hover:text-[#243567]
+            cursor-pointer
           ">
             <FiCalendar />
           </div>
