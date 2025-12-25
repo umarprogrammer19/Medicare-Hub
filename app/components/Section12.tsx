@@ -26,12 +26,12 @@ export default function Newsletter() {
 
           <h2 className="text-5xl md:text-6xl leading-tight mb-6">
             {/* Dancing Script */}
-            <span className={`${dancing.className} block text-5xl md:text-6xl font-bold text-[#243567]`}>
+            <span className={`${dancing.className} block text-5xl`}>
               We have some
             </span>
 
             {/* Poppins */}
-            <span className="block font-extrabold text-[#243567]">
+            <span className="block font-bold text-[#243567]">
               Good News
             </span>
           </h2>
