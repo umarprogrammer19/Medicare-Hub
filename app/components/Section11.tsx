@@ -1,4 +1,3 @@
-
 import { Poppins, Dancing_Script } from "next/font/google";
 import {
   FiActivity,

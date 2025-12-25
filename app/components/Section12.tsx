@@ -7,6 +7,7 @@ const poppins = Poppins({
   weight: ["400", "600", "700"],
 });
 
+
 export default function Newsletter() {
   return (
     <section className={`py-24 ${poppins.className}`}>
@@ -14,18 +15,18 @@ export default function Newsletter() {
 
         {/* LEFT CONTENT */}
         <div>
-          <p className="text-gray-500 mb-4">
+          <p className="mb-4">
             Latest Medicare notifications
           </p>
 
           <h2 className="text-5xl font-light leading-tight mb-6">
             We have some <br />
-            <span className="font-bold text-blue-600">
-              Good news
+            <span className="font-bold text-[#243567]">
+              Good News
             </span>
           </h2>
 
-          <div className="w-16 h-[3px] bg-blue-600 mb-8" />
+          <div className="w-16 h-[3px] bg-[#243567] mb-8" />
 
           <p className="text-gray-600 leading-relaxed mb-10 max-w-xl">
             Sign up for Medicare newsletter to receive all the new offers and
@@ -38,17 +39,17 @@ export default function Newsletter() {
             <input
               type="email"
               placeholder="Type in your email address"
-              className="flex-1 px-6 py-4 rounded-full bg-gray-100 outline-none focus:ring-2 focus:ring-blue-600"
+              className="flex-1 px-6 py-4 rounded-full bg-gray-100 outline-none focus:ring-2 focus:ring-[#243567]"
             />
 
-            <button className="px-10 py-4 rounded-full bg-blue-600 text-white font-semibold hover:bg-blue-700 transition">
+            <button className="cursor-pointer px-10 py-4 rounded-full bg-[#243567] text-white font-semibold hover:bg-[#0b1430] transition">
               SUBSCRIBE
             </button>
           </div>
         </div>
 
         {/* RIGHT IMAGE */}
-        <div className="relative w-full h-[450px]">
+        <div className="relative w-full h-[500px]">
           <Image
             src="/Box7.PNG" // apni image ka path
             alt="Medicare Newsletter"
