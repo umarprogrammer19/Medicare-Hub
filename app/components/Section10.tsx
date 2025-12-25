@@ -1,4 +1,3 @@
-// app/components/ContactInfo.tsx
 import {
   FiMapPin,
   FiPhone,

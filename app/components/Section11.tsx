@@ -19,18 +19,18 @@ export default function Services() {
 
         {/* Heading */}
         <div className="max-w-2xl mb-20">
-          <p className="text-gray-500 mb-2">Our services</p>
+          <p className=" mb-2">Our services</p>
 
           <h2 className="text-4xl md:text-5xl font-light leading-tight mb-6">
             What services <br />
-            <span className="font-bold text-blue-600">
+            <span className="font-bold text-[#243567]">
               Medicare offers?
             </span>
           </h2>
 
-          <div className="w-16 h-[3px] bg-blue-600 mb-6" />
+          <div className="w-16 h-[3px] bg-[#243567] mb-6" />
 
-          <p className="text-gray-600 leading-relaxed">
+          <p className="leading-relaxed">
             Compellingly embrace empowered e-business after user friendly
             intellectual capital. Interactively actualize front-end processes
             with effective convergence.
@@ -42,62 +42,62 @@ export default function Services() {
 
           {/* Card 1 */}
           <div>
-            <FiActivity className="text-lime-500 text-6xl mb-6" />
+            <FiActivity className="text-[#243567] text-6xl mb-6" />
 
             <h3 className="text-2xl font-semibold mb-4">
               General health care
             </h3>
 
-            <div className="w-10 h-[2px] bg-blue-600 mb-4" />
+            <div className="w-10 h-[2px] bg-[#243567] mb-4" />
 
             <p className="text-gray-600 leading-relaxed mb-6">
               Interactively procrastinate high-payoff content without
               backward-compatible data. Quickly cultivate optimal processes.
             </p>
 
-            <button className="flex items-center gap-2 text-blue-600 font-semibold hover:gap-3 transition-all">
+            <button className="cursor-pointer flex items-center gap-2 text-[#243567] font-semibold hover:gap-3 transition-all">
               FIND OUT MORE <FiArrowRight />
             </button>
           </div>
 
           {/* Card 2 */}
           <div>
-            <FiSmile className="text-lime-500 text-6xl mb-6" />
+            <FiSmile className="text-[#243567] text-6xl mb-6" />
 
             <h3 className="text-2xl font-semibold mb-4">
               Dental services
             </h3>
 
-            <div className="w-10 h-[2px] bg-blue-600 mb-4" />
+            <div className="w-10 h-[2px] bg-[#243567] mb-4" />
 
-            <p className="text-gray-600 leading-relaxed mb-6">
+            <p className="leading-relaxed mb-6">
               Objectively innovate empowered manufactured products whereas
               parallel platforms. Holistically predominate extensible testing
               procedures.
             </p>
 
-            <button className="flex items-center gap-2 text-blue-600 font-semibold hover:gap-3 transition-all">
+            <button className="cursor-pointer flex items-center gap-2 text-[#243567] font-semibold hover:gap-3 transition-all">
               FIND OUT MORE <FiArrowRight />
             </button>
           </div>
 
           {/* Card 3 */}
           <div>
-            <FiSearch className="text-lime-500 text-6xl mb-6" />
+            <FiSearch className="text-[#243567] text-6xl mb-6" />
 
             <h3 className="text-2xl font-semibold mb-4">
               Screening
             </h3>
 
-            <div className="w-10 h-[2px] bg-blue-600 mb-4" />
+            <div className="w-10 h-[2px] bg-[#243567] mb-4" />
 
-            <p className="text-gray-600 leading-relaxed mb-6">
+            <p className="leading-relaxed mb-6">
               Proactively envisioned multimedia based expertise and
               cross-media growth strategies. Seamlessly visualize quality
               intellectual capital.
             </p>
 
-            <button className="flex items-center gap-2 text-blue-600 font-semibold hover:gap-3 transition-all">
+            <button className="flex items-center gap-2 text-[#243567] font-semibold hover:gap-3 transition-all cursor-pointer">
               FIND OUT MORE <FiArrowRight />
             </button>
           </div>
