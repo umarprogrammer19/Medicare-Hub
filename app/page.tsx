@@ -19,6 +19,7 @@ import Section16 from './components/Section16'
 import Section17 from './components/Section17'
 import Section18 from './components/Section18'
 import Section19 from './components/Section19'
+import Section20 from './components/Section20'
 export default function page() {
   return (
     <div>
@@ -43,6 +44,7 @@ export default function page() {
     <Section17/>
     <Section18/>
     <Section19/>
+    <Section20/>
     </div>
   );
 }
