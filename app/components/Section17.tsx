@@ -49,7 +49,6 @@ export default function StatsSection() {
   );
 }
 
-/* Reusable Stat Box */
 function StatBox({ number, title, text }) {
   return (
     <div>
