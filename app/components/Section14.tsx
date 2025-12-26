@@ -58,7 +58,6 @@ export default function MedicareNumbers() {
             <p className="text-sm">80% Satisfaction</p>
           </div>
 
-          {/* 70% */}
           <div>
             <div
               className="w-40 h-40 mx-auto rounded-full flex items-center justify-center mb-6"
