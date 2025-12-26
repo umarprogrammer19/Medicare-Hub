@@ -14,19 +14,19 @@ export default function TestimonialSection() {
         />
       </Head>
 
-      <section
-        className="relative py-28 font-[Poppins] text-white bg-[#243567]"
-      >
-        {/* Overlay removed – solid color bg now */}
-        
-        {/* Content */}
+      <section className="relative py-20 font-[Poppins] text-white bg-[#141b2e]">
         <div className="relative max-w-7xl mx-auto px-6 text-center">
 
           <p className="text-lg mb-3">What our patient say</p>
-          <span className="inline-block w-16 h-[3px] bg-red-500 mb-6"></span>
+          <span className="inline-block w-16 h-[3px] bg-cyan-400 mb-6"></span>
 
-          <h2 className="text-5xl font-bold mb-20">
-            <span className="font-[Dancing Script] text-red-500">THE WORD OF</span>{" "}
+          <h2 className="text-6xl  mb-20">
+            <span
+              className="text-cyan-400"
+              style={{ fontFamily: "'Dancing Script', cursive" }}
+            >
+              The Word Of
+            </span> {" "}
             <span>MOUTH</span>
           </h2>
 
