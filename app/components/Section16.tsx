@@ -15,8 +15,6 @@ export default function OurValues() {
   return (
     <section className={`py-24 bg-white ${poppins.className}`}>
       <div className="max-w-7xl mx-auto px-6">
-        
-        {/* Heading */}
         <p className="mb-2">What we stand for</p>
 
         <h2 className="text-6xl font-bold mb-16">
