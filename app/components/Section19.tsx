@@ -54,7 +54,6 @@ export default function TestimonialSection() {
   );
 }
 
-/* Reusable Testimonial Item */
 function TestimonialItem({ text, sign, name, city }) {
   return (
     <div>
