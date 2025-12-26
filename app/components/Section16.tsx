@@ -26,11 +26,10 @@ export default function OurValues() {
         {/* Heading */}
         <p className="mb-2">What we stand for</p>
 
-        <h2 className="text-4xl font-bold mb-16">
+        <h2 className="text-6xl font-bold mb-16">
           <span className={`${dancing.className} text-[#243567] font-semibold`}>
-            Our
-          </span>{" "}
-          Values
+            Our Values
+          </span>
         </h2>
 
         {/* Grid */}
