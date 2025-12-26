@@ -45,7 +45,6 @@ export default function MedicareNumbers() {
             <p className="text-sm">90% Success Rate</p>
           </div>
 
-          {/* 80% */}
           <div>
             <div
               className="w-40 h-40 mx-auto rounded-full flex items-center justify-center mb-6"
