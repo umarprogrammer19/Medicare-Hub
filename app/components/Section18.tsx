@@ -51,8 +51,7 @@ export default function ContactSection() {
 
               <button
                 type="submit"
-                className="bg-[#243567] text-white px-8 py-3 font-semibold hover:bg-[#111c3e] transition cursor-pointer"
-              >
+                className="bg-[#243567] text-white px-8 py-3 font-semibold hover:bg-[#111c3e] transition cursor-pointer">
                 SEND
               </button>
             </form>
