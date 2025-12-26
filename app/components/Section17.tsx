@@ -41,8 +41,7 @@ export default function StatsSection() {
             <StatBox
               number="800"
               title="SATISFIED CLIENTS"
-              text="Mauris vitae varius tortor. Fusce eros diam, auctor sit amet lorem ut, efficitur iaculis magna"
-            />
+              text="Mauris vitae varius tortor. Fusce eros diam, auctor sit amet lorem ut, efficitur iaculis magna"/>
 
           </div>
         </div>
