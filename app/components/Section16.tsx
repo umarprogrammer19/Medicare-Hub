@@ -54,8 +54,7 @@ export default function OurValues() {
             <ValueItem
               icon={<FaPhoneAlt />}
               title="ALWAYS THERE FOR YOU"
-              text="Mauris commodo lacinia nisi a fermentum. Donec risus magna, fringilla laoreet ullamcorper in."
-            />
+              text="Mauris commodo lacinia nisi a fermentum. Donec risus magna, fringilla laoreet ullamcorper in"/>
 
             <ValueItem
               icon={<FaHospital />}
