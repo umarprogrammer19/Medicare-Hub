@@ -44,7 +44,6 @@ export default function OurValues() {
               icon={<FaHeartbeat />}
               title="YOUR HEALTHCARE"
               text="Vestibulum imperdiet vestibulum laoreet. Integer elementum euismod ante sit amet elementum"/>
-
             <ValueItem
               icon={<FaAmbulance />}
               title="EMERGENCY SERVICES"
