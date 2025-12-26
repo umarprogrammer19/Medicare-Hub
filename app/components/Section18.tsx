@@ -4,7 +4,6 @@ import { FaShieldAlt, FaUserMd, FaPhoneAlt } from "react-icons/fa";
 export default function ContactSection() {
   return (
     <>
-      {/* Poppins Font – SAME FILE */}
       <Head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true" />
