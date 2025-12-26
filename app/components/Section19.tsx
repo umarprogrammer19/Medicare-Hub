@@ -26,9 +26,7 @@ export default function TestimonialSection() {
             <span>MOUTH</span>
           </h2>
 
-          {/* Testimonials */}
           <div className="grid md:grid-cols-3 gap-16 text-left">
-
             {/* Item 1 */}
             <TestimonialItem
               text="Ut tincidunt dolor felis, et accumsan ante elementum in. Fusce convallis, dui ac malesuada posuere, ante diam viverra ligula."
