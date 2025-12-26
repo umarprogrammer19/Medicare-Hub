@@ -22,14 +22,11 @@ export default function StatsSection() {
               height={900} />
           </div>
 
-          {/* RIGHT CONTENT */}
           <div className="grid sm:grid-cols-2 gap-12">
-
             <StatBox
               number="12"
               title="YEARS WITH YOU"
-              text="Phasellus laoreet tristique sagittis. Phasellus commodo dolor sed elit iaculis interdum"
-            />
+              text="Phasellus laoreet tristique sagittis. Phasellus commodo dolor sed elit iaculis interdum"/>
 
             <StatBox
               number="41"
