@@ -58,8 +58,7 @@ export default function OurValues() {
             <ValueItem
               icon={<FaHospital />}
               title="PREMIUM FACILITIES"
-              text="Donec porta tellus ac purus eleifend faucibus sit amet eu eros. Donec cursus laoreet felis."
-            />
+              text="Donec porta tellus ac purus eleifend faucibus sit amet eu eros. Donec cursus laoreet felis"/>
           </div>
 
         </div>
