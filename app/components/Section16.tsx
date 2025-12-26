@@ -25,8 +25,6 @@ export default function OurValues() {
 
         {/* Grid */}
         <div className="grid md:grid-cols-3 gap-12 relative">
-
-          {/* Column 1 */}
           <div className="space-y-14">
             <ValueItem
               icon={<FaUserMd />}
