@@ -20,8 +20,7 @@ export default function TestimonialSection() {
           <h2 className="text-6xl  mb-20">
             <span
               className="text-cyan-400"
-              style={{ fontFamily: "'Dancing Script', cursive" }}
-            >
+              style={{ fontFamily: "'Dancing Script', cursive" }}>
               The Word Of
             </span> {" "}
             <span>MOUTH</span>
