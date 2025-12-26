@@ -60,7 +60,6 @@ export default function OurValues() {
               title="PREMIUM FACILITIES"
               text="Donec porta tellus ac purus eleifend faucibus sit amet eu eros. Donec cursus laoreet felis"/>
           </div>
-
         </div>
       </div>
     </section>
