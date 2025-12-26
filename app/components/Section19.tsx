@@ -4,27 +4,21 @@ import Image from "next/image";
 export default function TestimonialSection() {
   return (
     <>
-      {/* Poppins Font – SAME FILE */}
+      {/* Fonts – Poppins + Dancing Script */}
       <Head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true" />
         <link
-          href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+          href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Dancing+Script:wght@400;500;600;700&display=swap"
           rel="stylesheet"
         />
       </Head>
 
       <section
-        className="relative py-28 font-[Poppins] text-white"
-        style={{
-          backgroundImage: "url('/testimonial-bg.jpg')",
-          backgroundSize: "cover",
-          backgroundPosition: "center",
-        }}
+        className="relative py-28 font-[Poppins] text-white bg-[#243567]"
       >
-        {/* Blue Overlay */}
-        <div className="absolute inset-0 bg-cyan-600/80"></div>
-
+        {/* Overlay removed – solid color bg now */}
+        
         {/* Content */}
         <div className="relative max-w-7xl mx-auto px-6 text-center">
 
@@ -32,7 +26,8 @@ export default function TestimonialSection() {
           <span className="inline-block w-16 h-[3px] bg-red-500 mb-6"></span>
 
           <h2 className="text-5xl font-bold mb-20">
-            THE WORD OF <span className="text-red-500">MOUTH</span>
+            <span className="font-[Dancing Script] text-red-500">THE WORD OF</span>{" "}
+            <span>MOUTH</span>
           </h2>
 
           {/* Testimonials */}

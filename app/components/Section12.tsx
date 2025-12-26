@@ -38,10 +38,10 @@ export default function Newsletter() {
 
           <div className="w-16 h-[3px] bg-[#243567] mb-8" />
 
-          <p className="text-gray-600 leading-relaxed mb-10 max-w-xl">
+          <p className="leading-relaxed mb-10 max-w-xl">
             Sign up for the Medicare newsletter to receive all the new offers and
             discounts from Medicare clinic. Discounts are only valid for our
-            newsletter subscribers.
+            newsletter subscribers
           </p>
 
           {/* FORM */}
@@ -64,7 +64,7 @@ export default function Newsletter() {
             src="/Box7.PNG" // Apni image ka path
             alt="Medicare Newsletter"
             fill
-            className="object-cover rounded-xl shadow-lg"
+            className="object-cover"
           />
         </div>
 
