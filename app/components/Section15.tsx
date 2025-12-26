@@ -83,15 +83,11 @@ export default function FAQSection() {
                     }`}
                   />
                 </div>
-
-                {/* Smooth Accordion */}
                 <div
                   className={`overflow-hidden transition-all duration-500 ease-in-out ${
                     openIndex === index
                       ? "max-h-40 opacity-100 mt-3"
-                      : "max-h-0 opacity-0"
-                  }`}
-                >
+                      : "max-h-0 opacity-0"}`}>
                   <p className="text-sm leading-relaxed">
                     {item.a}
                   </p>
