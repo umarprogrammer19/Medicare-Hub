@@ -4,7 +4,6 @@ import Image from "next/image";
 export default function TestimonialSection() {
   return (
     <>
-      {/* Fonts – Poppins + Dancing Script */}
       <Head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true" />
@@ -16,10 +15,8 @@ export default function TestimonialSection() {
 
       <section className="relative py-20 font-[Poppins] text-white bg-[#141b2e]">
         <div className="relative max-w-7xl mx-auto px-6 text-center">
-
           <p className="text-lg mb-3">What our patient say</p>
           <span className="inline-block w-16 h-[3px] bg-cyan-400 mb-6"></span>
-
           <h2 className="text-6xl  mb-20">
             <span
               className="text-cyan-400"
