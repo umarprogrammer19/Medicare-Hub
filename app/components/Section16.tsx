@@ -35,8 +35,7 @@ export default function OurValues() {
               title="NURSING STAFF"
               text="Donec libero dui, dapibus non leo et, molestie faucibus risus. In fermentum tortor et"/>
           </div>
-
-          {/* Dividers */}
+          
           <div className="hidden md:block absolute left-1/3 top-0 h-full w-px bg-[#243567]"></div>
           <div className="hidden md:block absolute left-2/3 top-0 h-full w-px bg-[#243567]"></div>
 
