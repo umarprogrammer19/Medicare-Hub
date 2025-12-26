@@ -96,8 +96,6 @@ export default function FAQSection() {
             ))}
           </div>
         </div>
-
-        {/* RIGHT IMAGE */}
         <div className="w-full h-full mt-1">
           <img
             src="dr9.avif"
@@ -105,7 +103,6 @@ export default function FAQSection() {
             className="w-full h-[580px] object-cover"
           />
         </div>
-
       </div>
     </section>
   );
