@@ -32,16 +32,14 @@ export default function TestimonialSection() {
               text="Ut tincidunt dolor felis, et accumsan ante elementum in. Fusce convallis, dui ac malesuada posuere, ante diam viverra ligula."
               sign="/sign1.png"
               name="PAUL SMITH"
-              city="MANHATTAN"
-            />
+              city="MANHATTAN"/>
 
             {/* Item 2 */}
             <TestimonialItem
               text="Donec eros massa, gravida ac lectus et, pharetra interdum lectus. Sed vel scelerisque quam, id fringilla ante."
               sign="/sign2.png"
               name="JANE CROFT"
-              city="BOSTON"
-            />
+              city="BOSTON"/>
 
             {/* Item 3 */}
             <TestimonialItem
