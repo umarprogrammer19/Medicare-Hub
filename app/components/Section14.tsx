@@ -83,7 +83,6 @@ export default function MedicareNumbers() {
             <h4 className="font-semibold mb-2">CARE EXPRESSED</h4>
             <p className="text-sm">60% Engagement</p>
           </div>
-
         </div>
       </div>
     </section>
