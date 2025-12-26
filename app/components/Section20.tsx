@@ -48,7 +48,6 @@ export default function PatientsWithDoctors() {
   );
 }
 
-/* Image Box */
 function ImageBox({ img }) {
   return (
     <div className="overflow-hidden">

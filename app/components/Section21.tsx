@@ -4,7 +4,6 @@ import Image from "next/image";
 export default function PatientsWithDoctorsSixBoxes() {
   return (
     <>
-      {/* Fonts – Poppins + Dancing Script */}
       <Head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true" />
@@ -13,7 +12,6 @@ export default function PatientsWithDoctorsSixBoxes() {
           rel="stylesheet"
         />
       </Head>
-
       <section className="py-16 bg-white font-[Poppins]">
         <div className="max-w-7xl mx-auto px-6 text-center">
 
