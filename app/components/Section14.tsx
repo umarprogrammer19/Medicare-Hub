@@ -15,7 +15,6 @@ export default function MedicareNumbers() {
   return (
     <section className={`py-20 ${poppins.className}`}>
       <div className="max-w-7xl mx-auto px-6">
-        {/* Heading */}
         <p className="text-sm mb-2">
           Great practice means great health care
         </p>
@@ -26,7 +25,6 @@ export default function MedicareNumbers() {
         </h2>
 
         <div className="w-14 h-[2px] bg-[#243567] mb-6"></div>
-
         <p className="max-w-2xl mb-14 leading-relaxed">
           Dynamically target high-payoff intellectual capital for customized
           technologies.
@@ -34,8 +32,6 @@ export default function MedicareNumbers() {
 
         {/* Stats */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-12 text-center">
-
-          {/* 90% */}
           <div>
             <div
               className="w-40 h-40 mx-auto rounded-full flex items-center justify-center mb-6"
