@@ -4,7 +4,6 @@ import Image from "next/image";
 export default function StatsSection() {
   return (
     <>
-      {/* Poppins Font – SAME FILE */}
       <Head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true" />
