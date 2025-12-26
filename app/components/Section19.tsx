@@ -46,9 +46,7 @@ export default function TestimonialSection() {
               text="Vestibulum mattis diam quis interdum suscipit. Nam orci ipsum, scelerisque elementum ultricies sit amet."
               sign="/sign3.png"
               name="MICHELLE ECCLESTONE"
-              city="CHICAGO"
-            />
-
+              city="CHICAGO"/>
           </div>
         </div>
       </section>
