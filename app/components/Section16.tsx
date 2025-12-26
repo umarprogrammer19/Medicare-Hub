@@ -30,12 +30,10 @@ export default function OurValues() {
               icon={<FaUserMd />}
               title="DOCTOR YOU CHOOSE"
               text="Donec porta tellus ac purus eleifend faucibus sit amet eu eros. Donec cursus laoreet felis blandit facilisis"/>
-
             <ValueItem
               icon={<FaUserNurse />}
               title="NURSING STAFF"
-              text="Donec libero dui, dapibus non leo et, molestie faucibus risus. In fermentum tortor et."
-            />
+              text="Donec libero dui, dapibus non leo et, molestie faucibus risus. In fermentum tortor et"/>
           </div>
 
           {/* Dividers */}
