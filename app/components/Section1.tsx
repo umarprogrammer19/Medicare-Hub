@@ -21,14 +21,11 @@ export default function MedicalFeatures() {
         <h3 className="text-4xl md:text-5xl font-semibold text-[#243567] mt-2">
           FOR YOUR HEALTH
         </h3>
-
         <div className="w-14 h-[2px] bg-[#243567] mx-auto my-6"></div>
         <p className="text-gray-500 max-w-2xl mx-auto text-lg">
           We provide trusted medical services with experienced doctors,
-          modern facilities, and patient-focused care for your well-being.
+          modern facilities, and patient-focused care for your well-being
         </p>
-
-        {/* Features */}
         <div className="grid md:grid-cols-3 gap-12 mt-16">
 
           {/* Feature 1 */}

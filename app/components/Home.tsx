@@ -7,7 +7,6 @@ function HeroSection() {
     <div style={{ fontFamily: "'Poppins', sans-serif" }} className="relative flex items-center justify-between gap-12 px-10 py-12 h-[520px]">
       <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet" />
       <div className="w-full md:w-1/2 text-center md:text-left flex flex-col justify-center mt-5">
-        {/* Heading */}
         <div className="flex items-center gap-2 text-[#243567] font-semibold uppercase text-4xl mb-2">
           <PiStethoscope className="text-4xl" /> 
           YOUR HEALTH
@@ -45,5 +44,4 @@ function HeroSection() {
     </div>
   );
 }
-
 export default HeroSection;

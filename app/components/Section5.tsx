@@ -53,7 +53,7 @@ export default function Services() {
             </h3>
             <p className="mt-3 text-gray-500 text-sm leading-relaxed px-4">
               Praesent convallis tortor et enim laoreet, vel consectetur purus
-              laoreet.
+              laoreet
             </p>
           </div>
         ))}
@@ -62,7 +62,7 @@ export default function Services() {
             WORKING HOURS
           </h3>
           <p className="text-white text-sm mb-6">
-            Duis scelerisque faucibus nisi sed lacinia. Curabitur ipsum elit.
+            Duis scelerisque faucibus nisi sed lacinia Curabitur ipsum elit
           </p>
           <ul className="space-y-4 text-sm">
             <li className="flex justify-between border-b pb-2 text-white">

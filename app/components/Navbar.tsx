@@ -5,7 +5,6 @@ export default function Navbar() {
   return (
     <nav className="w-full bg-white">
       <div className="max-w-7xl mx-auto relative flex items-center px-6 h-16">
-        {/* logo */}
         <div className="flex-shrink-0">
           <Image
             src="/logo.png"
@@ -47,14 +46,12 @@ export default function Navbar() {
             </Link>
           </li>
         </ul>
-
         <div className="flex items-center gap-2 ml-auto ">
           <button className="cursor-pointer px-6 py-2 border border-[#243567] text-[#243567] bg-white text-sm font-serif font-medium hover:bg-[#243567] hover:text-white transition">
             Create account
           </button>
         </div>
       </div>
-
       <div className="max-w-6xl mx-auto border-b border-gray-300" />
     </nav>
   );

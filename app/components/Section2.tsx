@@ -10,7 +10,6 @@ export default function WorkProcess() {
     <section
       className={`${poppins.className} relative bg-gradient-to-b from-[#0b1f3a] to-[#07162b] py-24 text-white overflow-hidden`}>
         <div className="relative max-w-7xl mx-auto px-6">
-        {/* Header */}
         <div className="text-center mb-20">
           <div className="flex justify-center items-center gap-4 mb-6">
             <span className="h-[2px] w-16 bg-cyan-400" />
@@ -24,11 +23,9 @@ export default function WorkProcess() {
           </h2>
           <p className="max-w-2xl mx-auto text-gray-300">
             Proactively revolutionize granular customer service after pandemic
-            internal or “organic” sources proactive human capital rather.
+            internal or “organic” sources proactive human capital rather
           </p>
         </div>
-
-        {/* Steps */}
         <div className="grid md:grid-cols-3 gap-16">
           {/* Step 1 */}
           <div className="text-center relative">
