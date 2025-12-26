@@ -15,8 +15,6 @@ export default function ContactSection() {
 
       <section className="py-24 font-[Poppins]">
         <div className="max-w-7xl mx-auto px-6">
-
-          {/* Heading */}
           <p className="mb-2">Contact us anytime</p>
           <h2 className="text-4xl font-bold mb-16">
             SEND US YOUR COMMENTS
