@@ -4,7 +4,6 @@ import Image from "next/image";
 export default function PatientsWithDoctors() {
   return (
     <>
-      {/* Fonts – Poppins + Dancing Script */}
       <Head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true" />
@@ -16,8 +15,6 @@ export default function PatientsWithDoctors() {
 
       <section className="py-28 bg-white font-[Poppins]">
         <div className="max-w-7xl mx-auto px-6 text-center">
-
-          {/* Top Text */}
           <p className="mb-2">
             The relationship we have with you is special
           </p>
