@@ -47,8 +47,6 @@ export default function FAQSection() {
   return (
     <section className={`py-20 ${poppins.className}`}>
       <div className="max-w-7xl mx-auto px-6 grid lg:grid-cols-2 gap-14 items-stretch">
-        
-        {/* LEFT */}
         <div>
           <p className="text-sm mb-2">Usual questions</p>
 
@@ -60,9 +58,7 @@ export default function FAQSection() {
               Patients
             </span>
           </h2>
-
           <div className="w-14 h-[2px] bg-[#243567] mb-6"></div>
-
           <p className="max-w-xl mb-10 leading-relaxed">
             Completely synergize resource taxing relationships via premier
             niche markets. Professionally cultivate one-to-one customer
