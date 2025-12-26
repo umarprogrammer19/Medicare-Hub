@@ -35,17 +35,15 @@ export default function OurValues() {
               title="NURSING STAFF"
               text="Donec libero dui, dapibus non leo et, molestie faucibus risus. In fermentum tortor et"/>
           </div>
-          
+
           <div className="hidden md:block absolute left-1/3 top-0 h-full w-px bg-[#243567]"></div>
           <div className="hidden md:block absolute left-2/3 top-0 h-full w-px bg-[#243567]"></div>
 
-          {/* Column 2 */}
           <div className="space-y-14">
             <ValueItem
               icon={<FaHeartbeat />}
               title="YOUR HEALTHCARE"
-              text="Vestibulum imperdiet vestibulum laoreet. Integer elementum euismod ante sit amet elementum."
-            />
+              text="Vestibulum imperdiet vestibulum laoreet. Integer elementum euismod ante sit amet elementum"/>
 
             <ValueItem
               icon={<FaAmbulance />}
