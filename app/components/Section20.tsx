@@ -32,21 +32,16 @@ export default function PatientsWithDoctors() {
             Sed id ante a velit cursus luctus blandit ut elit. Ut sagittis quis urna non elementum.
             Suspendisse pretium nunc et suscipit hendrerit. Suspendisse potenti.
           </p>
-
-          {/* Upper Images */}
           <div className="grid md:grid-cols-3 gap-8 mb-8 cursor-pointer">
             <ImageBox img="/box9.jpg"/>
             <ImageBox img="/box10.jpg" />
             <ImageBox img="/box11.jpg" />
           </div>
-
-          {/* Lower Images */}
           <div className="grid md:grid-cols-3 gap-8 cursor-pointer">
             <ImageBox img="/box12.jpg"/>
             <ImageBox img="/box13.jpg"/>
             <ImageBox img="/box14.jpg" />
           </div>
-
         </div>
       </section>
     </>
