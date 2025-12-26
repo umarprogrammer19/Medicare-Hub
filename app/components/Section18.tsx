@@ -19,7 +19,7 @@ export default function ContactSection() {
           <h2 className="text-4xl font-bold mb-16">
             SEND US YOUR COMMENTS
           </h2>
-          
+
           <div className="grid md:grid-cols-3 gap-14">
             <form className="md:col-span-2 space-y-8">
               <div>
@@ -28,8 +28,7 @@ export default function ContactSection() {
                 </label>
                 <input
                   type="text"
-                  className="w-full bg-gray-100 p-4 outline-none"
-                />
+                  className="w-full bg-gray-100 p-4 outline-none"/>
               </div>
 
               <div>
@@ -38,8 +37,7 @@ export default function ContactSection() {
                 </label>
                 <input
                   type="email"
-                  className="w-full bg-gray-100 p-4 outline-none"
-                />
+                  className="w-full bg-gray-100 p-4 outline-none"/>
               </div>
 
               <div>
