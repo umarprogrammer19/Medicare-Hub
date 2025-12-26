@@ -56,14 +56,12 @@ export default function ContactSection() {
               </button>
             </form>
 
-            {/* RIGHT INFO */}
             <div className="space-y-12 flex flex-col justify-center">
               <InfoItem
                 icon={<FaShieldAlt />}
                 title="EMERGENCY CONTACT"
                 text="Free call 24/7"
-                number="+1555 6761 020"
-              />
+                number="+1555 6761 020"/>
 
               <InfoItem
                 icon={<FaUserMd />}
