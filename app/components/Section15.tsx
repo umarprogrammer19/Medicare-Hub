@@ -65,16 +65,13 @@ export default function FAQSection() {
             service
           </p>
 
-          {/* FAQ */}
           <div className="space-y-3">
             {faqs.map((item, index) => (
               <div
                 key={index}
                 className="bg-gray-100 px-5 py-4 cursor-pointer"
                 onClick={() =>
-                  setOpenIndex(openIndex === index ? null : index)
-                }
-              >
+                  setOpenIndex(openIndex === index ? null : index)}>
                 <div className="flex items-center justify-between gap-4">
                   <h4 className="text-sm font-medium text-gray-800 leading-snug">
                     {item.q}
