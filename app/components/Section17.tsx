@@ -57,7 +57,6 @@ function StatBox({ number, title, text }) {
         {title}
         <span className="block w-14 h-[2px] bg-white mt-2"></span>
       </h4>
-
       <p className="leading-relaxed">{text}</p>
     </div>
   );
