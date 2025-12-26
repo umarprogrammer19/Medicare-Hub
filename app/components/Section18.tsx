@@ -82,7 +82,6 @@ export default function ContactSection() {
   );
 }
 
-/* Reusable Info Item */
 function InfoItem({ icon, title, text, number }) {
   return (
     <div className="flex items-center gap-5">
