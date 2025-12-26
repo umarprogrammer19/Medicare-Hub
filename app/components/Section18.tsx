@@ -67,15 +67,13 @@ export default function ContactSection() {
                 icon={<FaUserMd />}
                 title="HOME VISIT"
                 text="Chargeable call 24/7"
-                number="+1777 6761 050"
-              />
+                number="+1777 6761 050"/>
 
               <InfoItem
                 icon={<FaPhoneAlt />}
                 title="PHONE CONTACT"
                 text="Within working hours"
-                number="+0800 2336 7811"
-              />
+                number="+0800 2336 7811"/>
             </div>
           </div>
         </div>
