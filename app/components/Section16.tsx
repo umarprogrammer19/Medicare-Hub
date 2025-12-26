@@ -1,12 +1,5 @@
 import { Poppins, Dancing_Script } from "next/font/google";
-import {
-  FaUserMd,
-  FaHeartbeat,
-  FaPhoneAlt,
-  FaUserNurse,
-  FaAmbulance,
-  FaHospital,
-} from "react-icons/fa";
+import {FaUserMd, FaHeartbeat, FaPhoneAlt, FaUserNurse, FaAmbulance, FaHospital} from "react-icons/fa";
 
 const poppins = Poppins({
   subsets: ["latin"],
