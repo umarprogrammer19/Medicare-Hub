@@ -31,13 +31,12 @@ export default function StatsSection() {
             <StatBox
               number="41"
               title="AWARDS"
-              text="Etiam ante ante, molestie vitae cursus ac, pharetra euismod libero"
-            />
+              text="Etiam ante ante, molestie vitae cursus ac, pharetra euismod libero"/>
 
             <StatBox
               number="25"
               title="DOCTORS"
-              text="Suspendisse sed lorem elit. Aenean nec faucibus lacus. Phasellus ultrices risus vitae eros suscipit"
+              text="Suspendisse sed lorem elit Aenean nec faucibus lacus. Phasellus ultrices risus vitae eros suscipit"
             />
 
             <StatBox
