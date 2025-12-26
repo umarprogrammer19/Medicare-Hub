@@ -58,15 +58,12 @@ function TestimonialItem({ text, sign, name, city }) {
   return (
     <div>
       <p className="leading-relaxed mb-10">{text}</p>
-
       <Image
         src={sign}
         alt="signature"
         width={160}
         height={60}
-        className="mb-4"
-      />
-
+        className="mb-4"/>
       <p className="font-semibold tracking-wide">
         {name}, <span className="font-normal">{city}</span>
       </p>
