@@ -100,8 +100,7 @@ export default function FAQSection() {
           <img
             src="dr9.avif"
             alt="Doctor"
-            className="w-full h-[580px] object-cover"
-          />
+            className="w-full h-[580px] object-cover"/>
         </div>
       </div>
     </section>
