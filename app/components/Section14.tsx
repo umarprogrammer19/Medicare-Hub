@@ -237,7 +237,7 @@ export default function MedicareNumbers() {
           {/* 90% */}
           <div>
             <div
-              className="w-44 h-44 mx-auto rounded-full flex items-center justify-center mb-6"
+              className="w-40 h-40 mx-auto rounded-full flex items-center justify-center mb-6"
               style={{
                 background: "conic-gradient(#243567 90%, #e5e7eb 0)",
               }}
@@ -253,7 +253,7 @@ export default function MedicareNumbers() {
           {/* 80% */}
           <div>
             <div
-              className="w-44 h-44 mx-auto rounded-full flex items-center justify-center mb-6"
+              className="w-40 h-40 mx-auto rounded-full flex items-center justify-center mb-6"
               style={{
                 background: "conic-gradient(#243567 80%, #e5e7eb 0)",
               }}
@@ -269,7 +269,7 @@ export default function MedicareNumbers() {
           {/* 70% */}
           <div>
             <div
-              className="w-44 h-44 mx-auto rounded-full flex items-center justify-center mb-6"
+              className="w-40 h-40 mx-auto rounded-full flex items-center justify-center mb-6"
               style={{
                 background: "conic-gradient(#243567 70%, #e5e7eb 0)",
               }}
@@ -285,7 +285,7 @@ export default function MedicareNumbers() {
           {/* 60% */}
           <div>
             <div
-              className="w-44 h-44 mx-auto rounded-full flex items-center justify-center mb-6"
+              className="w-40 h-40 mx-auto rounded-full flex items-center justify-center mb-6"
               style={{
                 background: "conic-gradient(#243567 60%, #e5e7eb 0)",
               }}
