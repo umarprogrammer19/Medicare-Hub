@@ -14,8 +14,6 @@ export default function StatsSection() {
       </Head>
       <section className="font-[Poppins] bg-[#050b1f] text-white py-13">
         <div className="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-14 items-center">
-
-          {/* LEFT IMAGE */}
           <div>
             <Image
               src="/dr.png"
