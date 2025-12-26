@@ -29,8 +29,7 @@ export default function OurValues() {
             <ValueItem
               icon={<FaUserMd />}
               title="DOCTOR YOU CHOOSE"
-              text="Donec porta tellus ac purus eleifend faucibus sit amet eu eros. Donec cursus laoreet felis blandit facilisis."
-            />
+              text="Donec porta tellus ac purus eleifend faucibus sit amet eu eros. Donec cursus laoreet felis blandit facilisis"/>
 
             <ValueItem
               icon={<FaUserNurse />}
