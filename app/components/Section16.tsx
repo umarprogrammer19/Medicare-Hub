@@ -47,11 +47,9 @@ export default function OurValues() {
             <ValueItem
               icon={<FaAmbulance />}
               title="EMERGENCY SERVICES"
-              text="Pellentesque sagittis neque neque, ac ultrices neque tempor a. In tellus sollicitudin eu."
-            />
+              text="Pellentesque sagittis neque neque, ac ultrices neque tempor a. In tellus sollicitudin eu"/>
           </div>
 
-          {/* Column 3 */}
           <div className="space-y-14">
             <ValueItem
               icon={<FaPhoneAlt />}
