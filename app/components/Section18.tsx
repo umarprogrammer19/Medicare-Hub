@@ -46,8 +46,7 @@ export default function ContactSection() {
                 </label>
                 <textarea
                   rows="6"
-                  className="w-full bg-gray-100 p-4 outline-none resize-none"
-                ></textarea>
+                  className="w-full bg-gray-100 p-4 outline-none resize-none"></textarea>
               </div>
 
               <button
