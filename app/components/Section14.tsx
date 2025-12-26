@@ -75,9 +75,7 @@ export default function MedicareNumbers() {
             <div
               className="w-40 h-40 mx-auto rounded-full flex items-center justify-center mb-6"
               style={{
-                background: "conic-gradient(#243567 60%, #e5e7eb 0)",
-              }}
-            >
+                background: "conic-gradient(#243567 60%, #e5e7eb 0)",}}>
               <div className="w-32 h-32 bg-white rounded-full flex items-center justify-center">
                 <FaUserFriends className="text-4xl text-[#13192c]" />
               </div>
