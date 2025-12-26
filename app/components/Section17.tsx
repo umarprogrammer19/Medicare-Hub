@@ -53,7 +53,6 @@ function StatBox({ number, title, text }) {
   return (
     <div>
       <h3 className="text-5xl font-semibold mb-2">{number}</h3>
-
       <h4 className="text-xl font-semibold tracking-wide mb-2 relative inline-block">
         {title}
         <span className="block w-14 h-[2px] bg-white mt-2"></span>
