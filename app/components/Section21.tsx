@@ -14,8 +14,6 @@ export default function PatientsWithDoctorsSixBoxes() {
       </Head>
       <section className="py-16 bg-white font-[Poppins]">
         <div className="max-w-7xl mx-auto px-6 text-center">
-
-          {/* Top Line */}
           <p className="mb-2">
             We are highly professional and skilled
           </p>
@@ -32,15 +30,11 @@ export default function PatientsWithDoctorsSixBoxes() {
             Donec faucibus, nisi sit amet ullamcorper suscipit, ligula augue blandit turpis,
             vitae maximus lacus odio vitae felis. Suspendisse potenti.
           </p>
-
-          {/* Upper Images */}
           <div className="grid md:grid-cols-3 gap-4 mb-8">
             <ImageBox img="/dr1.jpg" />
             <ImageBox img="/dr2.jpg" />
             <ImageBox img="/dr3.jpg" />
           </div>
-
-          {/* Lower Images */}
           <div className="grid md:grid-cols-3 gap-4">
             <ImageBox img="/dr4.jpg" />
             <ImageBox img="/dr5.jpg" />
@@ -53,7 +47,6 @@ export default function PatientsWithDoctorsSixBoxes() {
   );
 }
 
-/* Image Box */
 function ImageBox({ img }) {
   return (
     <div className="overflow-hidden">
