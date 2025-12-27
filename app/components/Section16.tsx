@@ -66,7 +66,7 @@ export default function OurValues() {
   );
 }
 
-/* Reusabl
+/* Reusal
 function ValueItem({ icon, title, text }) {
   return (
     <div className="flex gap-5">
