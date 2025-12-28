@@ -44,7 +44,6 @@ export default function ContactSection() {
                   rows="6"
                   className="w-full bg-gray-100 p-4 outline-none resize-none"></textarea>
               </div>
-
               <button
                 type="submit"
                 className="bg-[#243567] text-white px-8 py-3 font-semibold hover:bg-[#111c3e] transition cursor-pointer">
