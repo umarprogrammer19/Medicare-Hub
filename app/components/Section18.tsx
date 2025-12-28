@@ -18,7 +18,6 @@ export default function ContactSection() {
           <h2 className="text-4xl font-bold mb-16">
             SEND US YOUR COMMENTS
           </h2>
-
           <div className="grid md:grid-cols-3 gap-14">
             <form className="md:col-span-2 space-y-8">
               <div>
