@@ -36,7 +36,6 @@ export default function ContactSection() {
                   type="email"
                   className="w-full bg-gray-100 p-4 outline-none"/>
               </div>
-
               <div>
                 <label className="block text-sm mb-2">
                   Your Message
