@@ -12,7 +12,6 @@ export default function ContactSection() {
           rel="stylesheet"
         />
       </Head>
-
       <section className="py-24 font-[Poppins]">
         <div className="max-w-7xl mx-auto px-6">
           <p className="mb-2">Contact us anytime</p>
