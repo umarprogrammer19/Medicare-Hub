@@ -1,5 +1,4 @@
 "use client";
-
 import { useState } from "react";
 import { Poppins, Dancing_Script } from "next/font/google";
 import { FiChevronDown } from "react-icons/fi";
