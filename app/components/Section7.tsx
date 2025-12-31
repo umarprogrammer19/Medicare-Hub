@@ -8,7 +8,7 @@ export default function HeroSection() {
           @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 
           /* Opti
-          Poppins as default 
+          Poppins as 
           .hero-section {
             font-family: 'Poppins', sans-serif;
           }
