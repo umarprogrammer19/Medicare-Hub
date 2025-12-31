@@ -7,7 +7,7 @@ export default function HeroSection() {
           @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
           @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 
-          /* Optional: apply Poppins as default font for whole sectio */
+          /* Optional: apply Poppins as default font for whole 
           .hero-section {
             font-family: 'Poppins', sans-serif;
           }
