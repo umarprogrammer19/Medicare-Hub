@@ -1,7 +1,8 @@
-'use client'
+'use client';
 import Image from "next/image";
 import { PiStethoscope } from "react-icons/pi";
 
+// Hero Section For Whole Landing Page
 function HeroSection() {
   return (
     <div style={{ fontFamily: "'Poppins', sans-serif" }} className="relative flex items-center justify-between gap-12 px-10 py-12 h-[520px]">
