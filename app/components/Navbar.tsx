@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 
+// Navbar 
 export default function Navbar() {
   return (
     <nav className="w-full bg-white">
