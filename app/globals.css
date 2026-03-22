@@ -1,5 +1,6 @@
 @import "tailwindcss";
 
+/* Basic Styling */
 body {
   background: var(--background);
   color: var(--foreground);
