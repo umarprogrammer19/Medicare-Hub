@@ -1,7 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
 
-
 // Navbar 
 export default function Navbar() {
   return (
@@ -26,6 +25,7 @@ export default function Navbar() {
               </span>
             </Link>
           </li>
+          
           <li className="relative pb-1">
             <Link href="/doctors">
               <span className="after:block after:absolute after:-bottom-1 after:left-1/4 after:w-1/2 after:h-[2px] after:bg-[#243567] after:scale-x-0 after:transition-transform after:duration-300 hover:after:scale-x-100">
