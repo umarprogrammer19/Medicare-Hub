@@ -60,7 +60,7 @@ export default function FAQSection() {
           <div className="w-14 h-[2px] bg-[#243567] mb-6"></div>
           <p className="max-w-xl mb-10 leading-relaxed">
             Completely synergize resource taxing relationships via premier
-            niche markets. Professionally cultivate one-to-one customer
+            niche markets Professionally cultivate one-to-one customer
             service
           </p>
 
