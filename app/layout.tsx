@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Medicare Hub",
-  description: "A Medical Landing Page",
+  description: "Medical Landing Page",
 };
 
 export default function RootLayout({
