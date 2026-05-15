@@ -20,6 +20,7 @@ import Section18 from './components/Section18';
 import Section19 from './components/Section19';
 import Section20 from './components/Section20';
 import Section21 from './components/Section21';
+
 export default function page() {
   return (
     <div>
