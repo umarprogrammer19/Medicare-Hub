@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Medicare Hub",
+  title: "Medicare Hub Website",
   description: "Medical Landing Page",
 };
 
