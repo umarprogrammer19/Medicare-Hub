@@ -45,7 +45,7 @@ export default function page() {
       <Section18 />
       <Section19 />
       <Section20 />
-      <Section21 />
+      {/* <Section21 /> */}
     </div>
   );
 }
